@@ -1,0 +1,22 @@
+.ecss{
+font-size: 100px; 
+color: #0000ff;
+display:flex; 
+justify-content: center;
+
+}
+.ecss2{
+    font-size: 40px; 
+ 
+}
+.ecss3{
+    font-size: 10pc;
+    display:flex;
+    justify-content: center;
+    color:#ff0000
+}
+.ecss4{
+font-size: 30px; 
+color:#00ff00   
+}
+    
